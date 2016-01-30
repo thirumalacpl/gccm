@@ -54,7 +54,7 @@
 <gap:plugin name="cordova-plugin-camera" source="npm" />
 <gap:plugin name="org.apache.cordova.splashscreen" source="npm"/> 
 
-<gap:plugin name="com.devicepush.cordova-phonegap" source="npm" />
+
 
 <!-- iOS Specific Fixes -->
   <gap:plugin name="com.phonegap.plugin.statusbar" />
